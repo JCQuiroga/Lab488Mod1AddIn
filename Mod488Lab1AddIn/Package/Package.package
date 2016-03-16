@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="26da7bd4-cf41-4980-a1c3-0eed78f2e83e" 
+        solutionId="26da7bd4-cf41-4980-a1c3-0eed78f2e83e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Mod488Lab1AddIn"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="7b8d7f7a-81e7-457c-881f-f31a5d39f536" />
+  </features>
+</package>

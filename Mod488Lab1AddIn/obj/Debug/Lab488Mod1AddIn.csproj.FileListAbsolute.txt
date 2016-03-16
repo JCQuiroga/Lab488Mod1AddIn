@@ -1,0 +1,3 @@
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\Mod488Lab1AddIn\Mod488Lab1AddIn\bin\Debug\Mod488Lab1AddIn.pdb
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\Mod488Lab1AddIn\Mod488Lab1AddIn\obj\Debug\Mod488Lab1AddIn.dll
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\Mod488Lab1AddIn\Mod488Lab1AddIn\obj\Debug\Mod488Lab1AddIn.pdb

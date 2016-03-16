@@ -1,0 +1,1 @@
+bin\Debug\Mod488Lab1AddIn.wsp
